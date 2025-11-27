@@ -1,3 +1,4 @@
 git add [nom du fichier]
 git commit -m [message]
 git push
+git pull 
