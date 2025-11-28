@@ -1,4 +1,4 @@
 git add [nom du fichier]
 git commit -m [message]
 git push
-test fvebvezb
+git pull
